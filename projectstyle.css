@@ -1,0 +1,52 @@
+body{
+    background-color: #f8f9fa;
+}
+.container div{
+    margin: 20px auto;
+}
+.fa-id-badge{
+    padding: 0px 20px 0px 20px;
+}
+
+.card-img-top{
+    margin-top: 10px;
+}
+.card{
+    transition: all 0.3s;
+}
+.card:hover {
+    transform: scale(1.02);
+    box-shadow: 2px 2px 2px #ccc;
+    opacity: 0.3;
+    /* filter: grayscale(0.5); */
+}
+.container .row .card .card-body{
+text-align: center;
+}
+
+#project .row{
+    text-align: center;
+}
+#project .row h2{
+    font-family: 'Shippori Mincho B1', serif; margin-top:50px;
+    text-align: center;
+}
+.container .row div img{
+    width: 100%;
+}
+
+
+#footer .row{
+    margin: 0px auto;
+    padding:20px;
+}
+#footer .row div{
+    font-family: 'Shippori Mincho B1', serif;
+    text-align: center;
+}
+#footer .row div i{
+    font-size: 30px;
+}
+#footer .row div h5:hover{
+    cursor: pointer;
+}

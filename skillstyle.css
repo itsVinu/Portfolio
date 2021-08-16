@@ -1,0 +1,137 @@
+.fa-id-badge{
+    padding: 0px 20px 0px 20px;
+}
+
+#skill{
+    margin: 50px auto;
+}
+h1{
+    font-family: 'Shippori Mincho B1', serif;
+    /* font-weight: 300; */
+    /* color: #dde5b6; */
+}
+h4{
+    font-family: 'Shippori Mincho B1', serif;
+    /* font-weight: 300; */
+    /* color: #dde5b6; */
+}
+
+.kotlin{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 80%, #e9ecef 80%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+.room{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 70%, #e9ecef 70%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+.retrofit{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 80%, #e9ecef 80%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+.firebase{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 65%, #e9ecef 65%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+.exo{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 65%, #e9ecef 65%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+.xml{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 80%, #e9ecef 80%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+.htm{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 85%, #e9ecef 85%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+.cs{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 80%, #e9ecef 80%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+.javasc{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 75%, #e9ecef 75%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+.bs{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 75%, #e9ecef 75%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+.jquer{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 70%, #e9ecef 70%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+.ndjs{
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(to right, #adb5db 0%,#adb5db 65%, #e9ecef 65%, #e9ecef 100%);
+    border: 0px solid #ccc;
+    transition: all 2s ease-in;
+}
+
+@media screen and (max-width:768px){
+    .web{
+        margin-top: 50px;
+    }
+}
+
+.container .row div .imag{
+    width: 80%;
+    /* height: 80%; */
+}
+
+@media screen and (max-width:768px){
+    .container .row div .imag{
+        width: 100%;
+        height: 100%;
+        /* margin-bottom: -240px; */
+    }
+}
+
+
+#footer .row{
+    margin: 0px auto;
+    padding:20px;
+}
+#footer .row div{
+    font-family: 'Shippori Mincho B1', serif;
+    text-align: center;
+}
+#footer .row div i{
+    font-size: 30px;
+}
+#footer .row div h5:hover{
+    cursor: pointer;
+}

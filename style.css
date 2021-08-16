@@ -1,0 +1,49 @@
+.fa-id-badge{
+    padding: 0px 20px 0px 20px;
+}
+img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.container{
+    margin:20px auto;
+    background-color: #f8f9fa;
+    /* margin-top: 0px; */
+}
+.container h1,h5,h4,p{
+    margin-top: 15px;
+}
+.container .row div p i{
+    padding-right: 20px;
+}
+h5{
+    font-family: 'Shippori Mincho B1', serif;
+    font-weight: 200;
+    /* color: #dde5b6; */
+}
+p{
+    font-family: 'Shippori Mincho B1', serif;
+    /* font-weight: 200; */
+    /* color: #dde5b6; */
+}
+
+h1{
+    font-family: 'Shippori Mincho B1', serif;
+    /* font-weight: 300; */
+    /* color: #dde5b6; */
+}
+h4{
+    font-family: 'Shippori Mincho B1', serif;
+    /* font-weight: 300; */
+    /* color: #dde5b6; */
+}
+
+@media screen and (max-width:991px){
+    .container .row div p{
+        font-size: 1.1rem;
+    }
+}
+
+
